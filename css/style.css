@@ -17,13 +17,13 @@
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, .3);
     min-width: 300px;
-    padding: 40px 60px 40px;
+    padding: 120px 60px 40px;
     margin: 5px auto;
     color: white;
 
 }
 
-.ancestors__foto {
+.ancestores__foto {
     width: 100px;
     height: 100px;
     border-radius: 50px;
@@ -34,3 +34,16 @@
     /*z-index: 1000;*/
     
 }
+
+.ancestores__text{
+    font-size: 18px;
+    padding: 100px, 30px;
+    justify-content: center;
+}
+
+.ancestores__username {
+    font-size: 19px;
+    text-align: left;
+    font-weight: 100;
+}
+
