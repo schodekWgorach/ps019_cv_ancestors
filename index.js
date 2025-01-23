@@ -52,23 +52,24 @@ const cvancestors = [
     }
 ];
 
-const imageElement = document.querySelectorAll('.ancestores__foto');
-const textElement = document.querySelectorAll('.ancestores__text');
-const nameElement = document.querySelectorAll('.ancestores__username');
+const imageElement = document.querySelector('.ancestores__foto');
+const textElement = document.querySelector('.ancestores__text');
+const nameElement = document.querySelector('.ancestores__username');
 
-let index = 0;
+let idx = 0;
 
-function updatecv(){
-    // Get current CV data from array at current index
-    const { name, photoUrl, text } = cvancestors [index];
-    imageElement.src = photoUrl; 
-    textElement.innerText = text;
+function updatecv()  {
+    const { name, photoUrl, text } = cvancestors[idx];
+    console.log(`Updating: ${name}`);
     nameElement.innerText = name;
-    index = (index + 1) % cvancestors.length;
+    imageElement.src = photoUrl;
+    textElement.innerText = text;
+   
+    idx = (idx + 1) % cvancestors.length;
+    
 
-    setTimeout (updatecv, 2000);
-
+    setTimeout(updatecv, 2000);
 }
 
+updatecv(); // Initial call to start the animation. 2 seconds after page load. 2000 milliseconds = 2 seconds.
 
-updatecv();
