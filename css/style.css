@@ -1,5 +1,5 @@
 body{
-    background-color: #00b4d8;
+    background-color: #457b9d;
 }
 
 .main__container {
@@ -16,12 +16,12 @@ body{
 .ancestores__container {
     position: relative;
     width: 500px;
-    height: 300px;
-    background-color: slateblue;
+    height: auto !important;
+    background-color: #1d3557;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, .3);
     min-width: 300px;
-    padding: 120px 60px 40px;
+    padding: 60px 60px 60px;
     margin: 5px auto;
     color: white;
 
