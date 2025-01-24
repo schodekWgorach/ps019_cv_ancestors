@@ -1,53 +1,40 @@
 const cvancestors = [
     {
-        name: 'Adam Nowak',
-        photoUrl: "assets/mini_jurica-koletic-7YVZYZeITc8-unsplash.jpg",
-        text: `Urodziłem się w małej wsi w małopolskiej Toporzysku w 1981 roku. Chodziłem do 
-        szkoły w Toporzysku, a w szkole średniej byłem w Jordanowie. Pracuję w przedsięmbiorstwie
-         drzewnym. Po skończeniu szkoły zaczełem prace w przedsiembiorstwie drzewnym w Toporzysku. 
-         Mam żonę Natalię i dwójkę dzieci, Jana i Weronikę`
+        name: 'Maria Rój',
+        photoUrl: "assets/images/ry_roj_maria.jpg",
+        text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada felis eu
+         ultrices dignissim. Nam facilisis justo dolor, eget cursus mi tincidunt pellentesque. 
+         Ut sit amet sollicitudin nunc. Aenean turpis ligula, pulvinar nec metus sagittis, vestibulum
+          posuere libero. Mauris ipsum nunc, ornare in ipsum sed, vehicula vulputate odio. Vivamus 
+          cursus lacus eu nisi hendrerit, vel hendrerit ipsum bibendum. Quisque pulvinar sapien id
+           pellentesque ultricies. Nullam pretium pharetra odio, eget porttitor lectus tristique id.
+            Nulla a est ac sem tempor dapibus cursus sed erat. Maecenas velit nisi, pellentesque vel 
+            malesuada non, venenatis sit amet mi. Praesent sagittis volutpat arcu, vitae fringilla erat.
+             Quisque nec lectus id erat porttitor
+         dignissim ut vel magna. Vestibulum gravida convallis urna, vitae rutrum enim iaculis at.`
 
     },
     {
-        name: 'Natalia Nowak',
-        photoUrl: "assets/jurica-koletic-7YVZYZeITc8-unsplash.jpg",
-        text: `Urodziłem się w małej wsi w małopolskiej Toporzysku w 1992 roku. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae lectus gravida, rhoncus leo sed, sodales massa.
-        Donec neque est, porttitor et urna sit amet, convallis semper est. Donec varius ipsum
-        in ante sagittis fringilla. Curabitur augue velit, faucibus at sodales quis, scelerisque a neque. 
-        Aenean laoreet sapien nulla, posuere dignissim ante faucibus id. Nulla odio metus, luctus et erat eu,
-        ultricies finibus urna. Curabitur sed diam ullamcorper, aliquet metus eu, maximus massa. In quis leo nunc.
-        Fusce venenatis fermentum tellus. Suspendisse porttitor placerat lectus, sit amet aliquet augue auctor ac.
-        Donec dignissim semper accumsan. Aenean non luctus metus. In et nisl quam. 
-        Sed augue ipsum, fringilla quis aliquet nec, ornare vitae arcu. Ut metus massa, 
-        volutpat non elit vel, molestie aliquet ex. Vestibulum sit amet malesuada tortor. 
-        Duis ut aliquet sem. Nam vitae cursus elit. Sed cursus id erat nec consectetur.
-        Duis hendrerit faucibus vulputate. Donec sit amet tempus enim, mollis condimentum nunc.
-
-        Suspendisse sit amet lorem sed dolor condimentum condimentum eget in nulla.
-        Vestibulum tortor est, faucibus ut malesuada ut, tempus sed dui. Donec bibendum
-        sem efficitur tempor bibendum. Etiam laoreet, lorem at pharetra aliquam, nunc neque 
-        sollicitudin est, quis mattis lacus sem sit amet enim. Proin augue. `
+        name: 'Schodnicka Bogumiła',
+        photoUrl: "assets/images/sch_sch_bog.jpg",
+        text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada felis eu
+         ultrices dignissim. Nam facilisis justo dolor, eget cursus mi tincidunt pellentesque. 
+         Ut sit amet sollicitudin nunc. Aenean turpis ligula, pulvinar nec metus sagittis, vestibulum
+          posuere libero. Mauris ipsum nunc, ornare in ipsum sed, vehicula vulputate odio. Vivamus 
+          cursus lacus eu nisi hendrerit, vel hendrerit ipsum bibendum. Quisque pulvinar sapien id
+           pellentesque ultricies. Nullam pretium pharetra odio, eget porttitor lectus tristique id.
+            Nulla a est ac sem tempor dapibus cursus sed erat. Maecenas velit nisi, pellentesque vel 
+            malesuada non, venenatis sit amet mi. Praesent sagittis volutpat arcu, vitae fringilla erat.
+             Quisque nec lectus id erat porttitor
+         dignissim ut vel magna. Vestibulum gravida convallis urna, vitae rutrum enim iaculis at. `
 
     },
     {
-        name: 'Adam Reader',
-        photoUrl: "assets/mini_jurica-koletic-7YVZYZeITc8-unsplash.jpg",
-        text: `Urodziłem się w małej wsi w małopolskiej Toporzysku w 1992 roku. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae lectus gravida, rhoncus leo sed, sodales massa.
-        Donec neque est, porttitor et urna sit amet, convallis semper est. Donec varius ipsum
-        in ante sagittis fringilla. Curabitur augue velit, faucibus at sodales quis, scelerisque a neque. 
-        Aenean laoreet sapien nulla, posuere dignissim ante faucibus id. Nulla odio metus, luctus et erat eu,
-        ultricies finibus urna. Curabitur sed diam ullamcorper, aliquet metus eu, maximus massa. In quis leo nunc.
-        Fusce venenatis fermentum tellus. Suspendisse porttitor placerat lectus, sit amet aliquet augue auctor ac.
-        Donec dignissim semper accumsan. Aenean non luctus metus. In et nisl quam. 
-        Sed augue ipsum, fringilla quis aliquet nec, ornare vitae arcu. Ut metus massa, 
-        volutpat non elit vel, molestie aliquet ex. Vestibulum sit amet malesuada tortor. 
-        Duis ut aliquet sem. Nam vitae cursus elit. Sed cursus id erat nec consectetur.
-        Duis hendrerit faucibus vulputate. Donec sit amet tempus enim, mollis condimentum nunc.
-
-        Suspendisse sit amet lorem sed dolor condimentum condimentum eget in nulla.
-        Vestibulum tortor est, faucibus ut malesuada ut, tempus sed dui. Donec bibendum
-        sem efficitur tempor bibendum. Etiam laoreet, lorem at pharetra aliquam, nunc neque 
-        sollicitudin est, quis mattis lacus sem sit amet enim. Proin augue. `
+        name: 'Schodnicka Stanisława',
+        photoUrl: "assets/images/sch_sch_stasia.jpg",
+        text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada felis eu
+         ultrices dignissim. Nam facilisis justo dolor, eget cursus mi tincidunt pellentesque. 
+         Ut sit amet sollicitudin nunc. Aenean turpis ligula, pulvinar nec metus sagittis, vestibulum`
 
     }
 ];
