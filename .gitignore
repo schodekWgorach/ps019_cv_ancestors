@@ -1,0 +1,7 @@
+*.log
+*.tmp
+*.bak
+
+/archiwum/
+
+assets/images/orginal

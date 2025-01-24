@@ -1,5 +1,5 @@
 body{
-    background-color: #457b9d;
+    background-color: rgb(56, 102, 65);
 }
 
 .main__container {
@@ -17,7 +17,7 @@ body{
     position: relative;
     width: 500px;
     height: auto !important;
-    background-color: #1d3557;
+    background-color: rgb(106, 153, 78);
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, .3);
     min-width: 300px;
