@@ -1,7 +1,7 @@
 export const cvancestors = [
     {
-        name: 'Maria Malar',
-        photoUrl: "assets/images/ry_roj_maria.jpg",
+        name: 'Marian Malar',
+        photoUrl: "./assets/images/ry_roj_marian.jpg",
         text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada felis eu
          ultrices dignissim. Nam facilisis justo dolor, eget cursus mi tincidunt pellentesque. 
          Ut sit amet sollicitudin nunc. Aenean turpis ligula, pulvinar nec metus sagittis, vestibulum
@@ -15,7 +15,7 @@ export const cvancestors = [
     },
     {
         name: 'Zofia Błachut',
-        photoUrl: "assets/images/sch_sch_bog.jpg",
+        photoUrl: "./assets/images/sch_sch_bog.jpg",
         text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada felis eu
          ultrices dignissim. Nam facilisis justo dolor, eget cursus mi tincidunt pellentesque. 
          Ut sit amet sollicitudin nunc. Aenean turpis ligula, pulvinar nec metus sagittis, vestibulum
@@ -29,7 +29,7 @@ export const cvancestors = [
     },
     {
         name: 'Zenona Kupik',
-        photoUrl: "assets/images/sch_sch_stasia.jpg",
+        photoUrl: "./assets/images/sch_sch_stasia.jpg",
         text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada felis eu
          ultrices dignissim. Nam facilisis justo dolor, eget cursus mi tincidunt pellentesque. 
          Ut sit amet sollicitudin nunc. Aenean turpis ligula, pulvinar nec metus sagittis, vestibulum`
