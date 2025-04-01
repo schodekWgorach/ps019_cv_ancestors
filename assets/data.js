@@ -1,6 +1,6 @@
 export const cvancestors = [
     {
-        name: 'Maria Rój',
+        name: 'Maria Malar',
         photoUrl: "assets/images/ry_roj_maria.jpg",
         text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada felis eu
          ultrices dignissim. Nam facilisis justo dolor, eget cursus mi tincidunt pellentesque. 
@@ -14,7 +14,7 @@ export const cvancestors = [
          dignissim ut vel magna. Vestibulum gravida convallis urna, vitae rutrum enim iaculis at.`
     },
     {
-        name: 'Schodnicka Bogumiła',
+        name: 'Zofia Błachut',
         photoUrl: "assets/images/sch_sch_bog.jpg",
         text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada felis eu
          ultrices dignissim. Nam facilisis justo dolor, eget cursus mi tincidunt pellentesque. 
@@ -28,7 +28,7 @@ export const cvancestors = [
          dignissim ut vel magna. Vestibulum gravida convallis urna, vitae rutrum enim iaculis at. `
     },
     {
-        name: 'Schodnicka Stanisława',
+        name: 'Zenona Kupik',
         photoUrl: "assets/images/sch_sch_stasia.jpg",
         text: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In malesuada felis eu
          ultrices dignissim. Nam facilisis justo dolor, eget cursus mi tincidunt pellentesque. 
