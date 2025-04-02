@@ -18,7 +18,7 @@ function updatecv()  {
     idx = (idx + 1) % cvancestors.length;
     
 
-    setTimeout(updatecv, 1000);
+    setTimeout(updatecv, 3000);
 }
 
 updatecv(); // Initial call to start the animation.
